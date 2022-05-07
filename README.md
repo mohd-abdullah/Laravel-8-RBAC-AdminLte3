@@ -1,5 +1,11 @@
 # Laravel 8 implementation with AdminLte 3.0 & RBAC
 
+## Installation
+1. composer install
+2. npm install
+3. npm run dev
+4. php artisan migrate
+
 ## About Template
 
 This is ready admin panel template with
