@@ -1,10 +1,15 @@
 # Laravel 8 implementation with AdminLte 3.0 & RBAC
 
 ## Installation
-1. composer install
-2. npm install
-3. npm run dev
-4. php artisan migrate
+1. Clone the repository with git clone
+2. Copy .env.example file to .env
+3. Edit database credentials in .env
+4. Run composer install
+5. Run php artisan key:generate
+6. Run php artisan migrate --seed
+7. Run npm install
+8. Run npm run dev
+9. Run php artisan serve
 
 ## About Template
 
